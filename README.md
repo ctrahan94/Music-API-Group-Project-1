@@ -1,6 +1,6 @@
 # Music-API-Group-Project
 * [Deployed Project](https://ctrahan94.github.io/Music-API-Group-Project-1/)
-* [Repository](https://github.com/ctrahan94/Music-API-Group-Project-1)
+* [Repository](https://github.com/ctrahan94/Playlist_generator)
 * ![Screenshot Here](images/Overview.PNG)
 
 ## Introduction
